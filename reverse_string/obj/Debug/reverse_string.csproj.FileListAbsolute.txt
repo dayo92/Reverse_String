@@ -1,0 +1,6 @@
+/Users/danielataiyero/Desktop/RiderProjects/reverse_string/reverse_string/bin/Debug/reverse_string.exe
+/Users/danielataiyero/Desktop/RiderProjects/reverse_string/reverse_string/bin/Debug/reverse_string.pdb
+/Users/danielataiyero/Desktop/RiderProjects/reverse_string/reverse_string/obj/Debug/reverse_string.csproj.AssemblyReference.cache
+/Users/danielataiyero/Desktop/RiderProjects/reverse_string/reverse_string/obj/Debug/reverse_string.csproj.CoreCompileInputs.cache
+/Users/danielataiyero/Desktop/RiderProjects/reverse_string/reverse_string/obj/Debug/reverse_string.exe
+/Users/danielataiyero/Desktop/RiderProjects/reverse_string/reverse_string/obj/Debug/reverse_string.pdb
